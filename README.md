@@ -14,6 +14,7 @@ Berikut adalah langkah-langkah untuk meng-clone dan menjalankan proyek ini mengg
 
 1. Buka Android Studio di komputer Anda.
 2. Pilih "Open an Existing Project" atau "Get from Version Control," tergantung pada versi Android Studio yang Anda gunakan.
+3. Masukan link berikut ini https://github.com/amarsh30/Movie-Mania.git
 
 ## Langkah Ketiga: Build dan Jalankan
 
